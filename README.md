@@ -1,8 +1,8 @@
-# projet-python-groupe-X
+# projet-python-taux-BCE
 
 Projet Python BFA1 (2026-2027) — Analyse des taux de change de référence de la BCE, **EUR/THB** et **EUR/USD**, du 1er janvier au 1er septembre 2026, via l'API Frankfurter.
 
-**Groupe X :** Luca Radu, Victor Mavre-Gigot, Théophile Le Metter, Léopold Santamaria.
+Luca Radu.
 
 ## Installation
 
